@@ -55,4 +55,4 @@ Display the frame: The frame with eye contours and alert message is displayed us
 
 Check for key press and exit: The code waits for a key press and checks if it is the 'q' key. If 'q' is pressed, the loop is exited.
 
-Clean up resources: Finally, the windows are closed and the video capture is released using cv2.destroyAllWindows() and cap.release()....
+Clean up resources: Finally, the windows are closed and the video capture is released using cv2.destroyAllWindows() and cap.release().
